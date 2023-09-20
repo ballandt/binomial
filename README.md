@@ -3,6 +3,8 @@
 Pythonskripte zur Berechnung üblicher Fragestellungen 
 zu binomialen Zufallsexperimenten.
 
+> Zur Nutzung mit Taschenrechnern mit Micropython geeignet.
+
 ## [*n* ermitteln](./finde_n.py)
 
 Es soll die Anzahl der notwendigen Versuche ermittelt, die 
